@@ -11,10 +11,10 @@ export const profile = {
   affiliation: "Industrial Attachment Student, Africa University — at Zimbabwe Flying Labs",
 
   // --- Contact / links. Fill these in; leave "" to hide. ---
-  email: "", // e.g. "taro.kaseke@example.com"
-  phone: "", // e.g. "+263 7X XXX XXXX"
-  linkedin: "", // e.g. "https://www.linkedin.com/in/your-handle"
-  github: "", // e.g. "https://github.com/your-handle"
+  email: "taropafadadzwakaseke@gmail.com",
+  phone: "+263 78 861 0227",
+  linkedin: "https://www.linkedin.com/in/taropafadzwa-kaseke-324303264/",
+  github: "https://github.com/GlowZw",
 
   // Formspree form id (free tier: https://formspree.io). Leave "" to fall back
   // to a mailto link for the contact form.
